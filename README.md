@@ -24,7 +24,8 @@ lukebarousse.com
 
 In this project, I've encountered many problems but this is the most troublesome one
 
-Issue: While the spilled array formulas update correctly in the cells, the charts sometimes fail to reflect the latest filtered data unless the same filter is reselected again
+Issue: While the spilled array formulas update correctly in the cells, the charts sometimes fail to reflect the latest filtered data unless the same filter is reselected again.
+
 I think this problem is due to my using a dynamic array for my chart which causes:
 - Charts don’t always respond instantly to dynamic spilled arrays
 - They can lag behind data changes, especially when using dropdown filters or handling large datasets
