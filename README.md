@@ -22,7 +22,7 @@ lukebarousse.com
 
 # Known Issue: Chart Lag with Filter Changes
 
-In this project, I've encountered many problems but this is the most troublesome one: "Why doesn't the chart always update immediately after changing filters?"
+In this project, I've encountered many problems but this is the most troublesome one
 
 Issue: While the spilled array formulas update correctly in the cells, the charts sometimes fail to reflect the latest filtered data unless the same filter is reselected again
 I think this problem is due to my using a dynamic array for my chart which causes:
