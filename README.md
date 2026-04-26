@@ -1,4 +1,4 @@
-First time using excel
+Main purpose of this project is to learn excel
 
 # Dataset
 
